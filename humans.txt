@@ -7,9 +7,14 @@
 
 # THANKS
 
+
 Allah is always the greatest <3
+
+    Thanks to allah, he never let me down and knows the best for me <3
+ develop
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    
