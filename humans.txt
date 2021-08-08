@@ -7,9 +7,10 @@
 
 # THANKS
 
-    <name>
+    Thanks to allah, he never let me down and knows the best for me <3
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    
